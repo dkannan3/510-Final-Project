@@ -1,6 +1,6 @@
 # EECS 510 Final Project: Welcome to Chipotle!
 
-Creator: **DIivit Kannan**
+Creator: **Divit Kannan**
 Description: Language to represent the joy of ordering your favorite protein based meal at your favorite restaurant.
 
 ## How To Clean, Run, and Test the Program

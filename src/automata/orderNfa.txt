@@ -1,0 +1,23 @@
+q0 q1 q2 q3 q4 qf
+B R C S N G L V E Q
+q0
+qf
+q0 B q1
+q0 R q1
+q1 C q2
+q1 S q2
+q2 N q3
+q2 G q3
+q2 L q3
+q2 V q3
+q2 E q3
+q2 Q q3
+q2 ε qf
+q3 N q4
+q3 G q4
+q3 L q4
+q3 V q4
+q3 E q4
+q3 Q q4
+q3 ε qf
+q4 ε qf
